@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/vikokoks/CLionProjects/tasks/task1-2/cmake-build-debug",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/vikokoks/CLionProjects/tasks/task1-2/cmake-build-debug -I/home/vikokoks/CLionProjects/tasks/task1-2/include -I/home/vikokoks/CLionProjects/tasks/task1-2/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++1z -o CMakeFiles/engine.dir/src/lab1.cpp.o -c /home/vikokoks/CLionProjects/tasks/task1-2/src/lab1.cpp",
+  "file": "/home/vikokoks/CLionProjects/tasks/task1-2/src/lab1.cpp"
+},
+{
+  "directory": "/home/vikokoks/CLionProjects/tasks/task1-2/cmake-build-debug",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/vikokoks/CLionProjects/tasks/task1-2/cmake-build-debug -I/home/vikokoks/CLionProjects/tasks/task1-2/include -I/home/vikokoks/CLionProjects/tasks/task1-2/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++1z -o CMakeFiles/main.dir/app/main.cpp.o -c /home/vikokoks/CLionProjects/tasks/task1-2/app/main.cpp",
+  "file": "/home/vikokoks/CLionProjects/tasks/task1-2/app/main.cpp"
+},
+{
+  "directory": "/home/vikokoks/CLionProjects/tasks/task1-2/cmake-build-debug/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/vikokoks/CLionProjects/tasks/task1-2/cmake-build-debug -I/home/vikokoks/CLionProjects/tasks/task1-2/include -I/home/vikokoks/CLionProjects/tasks/task1-2/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++1z -o CMakeFiles/unit_tests.dir/main.cpp.o -c /home/vikokoks/CLionProjects/tasks/task1-2/tests/main.cpp",
+  "file": "/home/vikokoks/CLionProjects/tasks/task1-2/tests/main.cpp"
+},
+{
+  "directory": "/home/vikokoks/CLionProjects/tasks/task1-2/cmake-build-debug/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/vikokoks/CLionProjects/tasks/task1-2/cmake-build-debug -I/home/vikokoks/CLionProjects/tasks/task1-2/include -I/home/vikokoks/CLionProjects/tasks/task1-2/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++1z -o CMakeFiles/unit_tests.dir/lab1_test.cpp.o -c /home/vikokoks/CLionProjects/tasks/task1-2/tests/lab1_test.cpp",
+  "file": "/home/vikokoks/CLionProjects/tasks/task1-2/tests/lab1_test.cpp"
+}
+]

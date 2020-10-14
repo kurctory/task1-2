@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/unit_tests.dir/main.cpp.o CMakeFiles/unit_tests.dir/lab1_test.cpp.o ../CMakeFiles/engine.dir/src/lab1.cpp.o  -o ../unit_tests 

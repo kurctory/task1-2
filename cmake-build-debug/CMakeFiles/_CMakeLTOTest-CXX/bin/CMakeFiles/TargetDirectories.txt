@@ -1,0 +1,4 @@
+/home/vikokoks/CLionProjects/tasks/task1-2/cmake-build-debug/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
+/home/vikokoks/CLionProjects/tasks/task1-2/cmake-build-debug/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/home/vikokoks/CLionProjects/tasks/task1-2/cmake-build-debug/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/home/vikokoks/CLionProjects/tasks/task1-2/cmake-build-debug/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
